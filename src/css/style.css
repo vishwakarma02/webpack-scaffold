@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bebas';
+    src:  url('fonts/BebasNeue-Regular.otf') format('otf'),
+            url('fonts/BebasNeue-Regular.ttf') format('ttf');
+    font-style: normal;
+}
+body{
+    color: rgb(0, 80, 49);
+    background: url('../dp.png');
+    background-repeat: no-repeat;
+    background-size: 50px;
+    font-family: 'Bebas';
+}
