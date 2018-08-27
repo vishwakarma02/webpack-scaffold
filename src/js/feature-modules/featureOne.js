@@ -1,3 +1,3 @@
-let people = ['madan', 'chinkara', 'chutki', 'diddi', 'sanal']
+let people = ['utkarsh', 'chinkara', 'chutki', 'diddi', 'beer']
 
 module.exports = people;
